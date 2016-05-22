@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document>
 	<statique number="001" active="1" menu="oui" url="static-1" template="static.php"><group><![CDATA[]]></group><name><![CDATA[Static 1]]></name><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[]]></meta_keywords><title_htmltag><![CDATA[]]></title_htmltag><date_creation><![CDATA[201605212246]]></date_creation><date_update><![CDATA[201605212310]]></date_update></statique>
-	<statique number="002" active="1" menu="oui" url="home1" template="static.php"><group><![CDATA[]]></group><name><![CDATA[home1]]></name><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[]]></meta_keywords><title_htmltag><![CDATA[]]></title_htmltag><date_creation><![CDATA[201605212316]]></date_creation><date_update><![CDATA[201605220206]]></date_update></statique>
+	<statique number="002" active="1" menu="oui" url="home1" template="static.php"><group><![CDATA[]]></group><name><![CDATA[home1]]></name><meta_description><![CDATA[]]></meta_description><meta_keywords><![CDATA[]]></meta_keywords><title_htmltag><![CDATA[]]></title_htmltag><date_creation><![CDATA[201605212316]]></date_creation><date_update><![CDATA[201605220209]]></date_update></statique>
 </document>
